@@ -1,0 +1,2 @@
+# Optional build-only reference; source execution does not require installation.
+setuptools==82.0.1
